@@ -96,6 +96,11 @@ Other important AI Agents:
 
 -Virtuals.io, on the other hand, is centered around the Virtuals Protocol, which enables the creation, co-ownership, and interaction with AI agents as tokenized assets. This protocol functions as a marketplace connecting AI contributors with consumer applications, facilitating the flow of intelligence and fostering innovation within the AI and gaming communities. By integrating AI and metaverse technologies, Virtuals Protocol allows for the creation of intelligent virtual personas that can interact with users in immersive virtual environments. These AI personas can be customized and monetized, providing new revenue streams for developers and contributors. 
 
+As of 10/2/2025:
+- Freysa.ai MC is $276.51M
+- Virtuals.io MC is $808.29M
+
+
 Templates to be used in Value Prop Canvas
 -----------------------------------------
 1. Jobs-to-Be-Done (JTBD)

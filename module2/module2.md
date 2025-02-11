@@ -49,3 +49,24 @@ Module 2: Value Proposition, Pricing & Market Size Validation
   - **Virtuals.io's Fixed Pricing**: The clarity and simplicity of Virtuals.io's fixed pricing appeal to non-technical users, guiding adversarium.xyz to consider offering clear, upfront pricing for core services.
   - **Market and Competitor Analysis**: Research into user preferences and competitor pricing models highlights the importance of balancing fixed and variable pricing to attract a diverse user base and ensure competitive positioning. The decision on whether to charge creators remains open as we gather more insights.
 
+4. Market Size Validation
+
+- What is the TAM?
+  <!-- This needs to be reviewed -->
+  - The global market for AI agent gaming and blockchain monetization solutions, estimated at $1.15 billion, based on industry reports and market research. The AI agent market is approximately $5.7 billion as of 10/2/2025, with gaming estimated to represent 20% of this market.
+
+- What is the SAM?
+  <!-- This needs to be reviewed -->
+  - The market segment within English-speaking regions with high blockchain adoption and readiness for AI agent gaming solutions, estimated at $0.5 billion. This focuses on Web3 gaming enthusiasts and AI agent creators who are most likely to adopt and benefit from our product.
+
+- What is the SOM?
+  <!-- This needs to be reviewed -->
+  - The achievable market share within the SAM, projected at $Z million, considering our unique value propositions and competitive positioning.
+
+- What assumptions and metrics did you use to validate these figures?
+  <!-- This needs to be reviewed -->
+  - Assumptions include:
+    - Growth rates in blockchain gaming
+    - AI agent adoption trends
+    - User willingness to pay for non-token monetization models
+  Metrics are derived from industry reports, competitor analysis, and user surveys.
